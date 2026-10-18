@@ -11,7 +11,7 @@
 
 ### Sobre mim
 
-Sou UI Designer com formação em Publicidade e Propaganda e experiência em design gráfico. Crio interfaces digitais com foco em **clareza, consistência e cuidado visual**, conectando identidade e funcionalidade.
+UI Designer com formação em Publicidade e Propaganda e experiência em design gráfico. Crio interfaces digitais com foco em **clareza, consistência e cuidado visual**, conectando identidade e funcionalidade.
 
 Trabalho com Figma, prototipação, componentes, Design Systems e layouts responsivos. Minha atuação tem ênfase na construção visual de interfaces, com fundamentos de UX aplicados à usabilidade e à organização da informação.
 
